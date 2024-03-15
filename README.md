@@ -2,9 +2,7 @@
 
 Proyectos de la materia Programación Web
 
-Proyectos:
-
-- [Unidad 1](/unidad-1) 
+- Unidad 1: [Good Reads](https://github.com/ValdezFOmar/GoodReads) 
 
 
 <!--
